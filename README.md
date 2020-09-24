@@ -12,7 +12,7 @@
 <code>wget --no-check-certificate -qO crack_bt_panel_pro.sh https://raw.githubusercontent.com/damoo007/Crack_BT_Panel/master/crack_bt_panel_pro.sh && bash crack_bt_panel_pro.sh</code>
 
 ## 卸载
-<code>wget --no-check-certificate -qO uninstall.sh https://git.io/JeuIm && bash uninstall.sh</code>
+<code>wget --no-check-certificate -qO uninstall.sh https://raw.githubusercontent.com/damoo007/Crack_BT_Panel/master/uninstall.sh && bash uninstall.sh</code>
 
 ## 更新日志
 - 由于官方面板已升级到5.9.2，旧破解方法失效，故回滚至5.9.1破解版本；
