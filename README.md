@@ -15,6 +15,7 @@
 <code>wget --no-check-certificate -qO uninstall.sh https://raw.githubusercontent.com/damoo007/Crack_BT_Panel/master/uninstall.sh && bash uninstall.sh</code>
 
 ##设置密码并且获得用户名
+
 cd /www/server/panel
 
 python tools.pyc panel passwd #新密码
