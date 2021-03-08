@@ -16,6 +16,7 @@
 
 ##设置密码并且获得用户名
 cd /www/server/panel
+
 python tools.pyc panel passwd #新密码
 ## 更新日志
 - 由于官方面板已升级到5.9.2，旧破解方法失效，故回滚至5.9.1破解版本；
